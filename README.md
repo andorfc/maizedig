@@ -26,4 +26,4 @@ MaizeDIG
 ### Who do I talk to? ###
 
 * Repo admin: Kyoung Tak Cho
-* team contact: MaizeGDB Team
+* team contact: MaizeGDB Team (https://www.maizegdb.org)
